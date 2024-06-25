@@ -62,7 +62,6 @@ const Detect = () => {
         }}>
           <div className="header-div">
             <p className="demo-title">Object Detection</p>
-            <p>This currently uses YOLOv8n pretrained coco model</p>
           </div>
           <div>
             {model ? (
@@ -82,7 +81,6 @@ const Detect = () => {
                   ) : (
                     <button className="css-btn" style={{ width: '60%' }} onClick={loadModel}>
                       <div style={{ fontSize: '16px', fontWeight: '500' }}>Load Model</div>
-                      <div style={{ fontSize: '16px', fontWeight: '500' }}>6 MB</div>
                     </button>
                   )}
               </div>

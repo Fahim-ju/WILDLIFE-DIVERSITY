@@ -135,10 +135,22 @@ h1, h2, h3, h4, h5,
 
 /* Navbar */
 
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 1999;
+  background-color: white;
+}
+
+
+
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
-  position: absolute;
+  position: fixed;
   width: 100%; }
   .site-navbar .container-fluid {
     padding-left: 7rem;
