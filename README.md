@@ -42,7 +42,7 @@ git clone https://github.com/Fahim-ju/WILDLIFE-DIVERSITY.git
 
 Install all the dependencies
 ```bash
-cd WildEye
+cd WILDLIFE-DIVERSITY
 npm install
 ```
 
@@ -50,7 +50,7 @@ npm install
 
 Run the project
 ```bash
-cd WildEye
+cd WILDLIFE-DIVERSITY
 npm start
 ```
 
