@@ -37,7 +37,7 @@ Install Node.js and npm using the link above. Follow instructions on their respe
 
 Clone the repository
 ```bash
-git clone https://github.com/shreehari-revankar/WildEye.git
+git clone https://github.com/Fahim-ju/WILDLIFE-DIVERSITY.git
 ```
 
 Install all the dependencies
